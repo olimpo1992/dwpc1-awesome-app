@@ -1,5 +1,5 @@
 {
-  "name": "dwpci-awesome-app-2024a",
+  "name": "dwpc1-awesome-app",
   "version": "0.0.0",
   "description": "Proyecto de clase de la materia de DWPCI 2024A",
   "main": "app.js",
@@ -24,5 +24,6 @@
   "homepage": "https://github.com/olimpo1992/dwpc1-awesome-apphttps:#readme",
   "dependencies": {
     "express": "^4.21.1"
-  }
+  },
+  "devDependencies": {}
 }
