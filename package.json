@@ -2,6 +2,8 @@
   "name": "dwpc1-awesome-app",
   "version": "0.0.0",
   "description": "Proyecto de clase de la materia de DWPCI 2024A",
+  "type": "module",
+  "engines": {"node": "18.x", "npm":"9.x"},
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
