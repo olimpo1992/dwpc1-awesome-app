@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/olimpo1992/dwpc1-awesome-apphttps:/issues"
   },
-  "homepage": "https://github.com/olimpo1992/dwpc1-awesome-apphttps:#readme"
+  "homepage": "https://github.com/olimpo1992/dwpc1-awesome-apphttps:#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
